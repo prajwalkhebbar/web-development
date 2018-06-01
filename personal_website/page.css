@@ -1,0 +1,69 @@
+.masthead{
+	background-image: url(https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover !important;
+   height: 500px;
+   background-attachment: fixed;
+   
+}
+
+.text.container{
+	margin: 15em;
+}
+
+.header.skills{
+	padding: 11%;
+	color: blueviolet;
+}
+.header.skills3{
+	padding: 11%;
+	color: yellowgreen;
+}
+.header.skills2{
+	padding: 11%;
+	padding-left: 15%;
+	color: orangered;
+}
+#more{
+	font-size: 1.2em;
+}
+/*.yellow.raised.segment{
+	background-image: url(https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}*/
+.inverted.header.last{
+	color: goldenrod;
+}
+.project_header{
+	background-image: url(https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.skill_banner{
+	background-image: url(https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.ui.black.piled.segment{
+	background-image: url(https://images.pexels.com/photos/872958/pexels-photo-872958.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;	
+}
+.ui.yellow.raised.segment{
+		background-image: url(https://images.pexels.com/photos/6470/black-and-white-creative-desk-pen.jpg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.ui.orange.segment{
+	background-image: url(https://images.pexels.com/photos/872958/pexels-photo-872958.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
