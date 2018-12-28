@@ -12,7 +12,7 @@ $('.row.segment')
 // 		blurring: true,
 
 // 		});
-// 		$(".blog_image").modal('show');	
+// 		$(".blog_image").modal('show');
 // 	});
 // });
 $('.blog_image1')
@@ -47,4 +47,9 @@ $('.camps.modal')
 ;
 $('.camp_image2')
   .modal('attach events', '.camp_image1 .button')
+  .modal('attach events', '.camp_image3 .button.prev')
+;
+
+$('.camp_image3')
+  .modal('attach events','.camp_image2 .button.next')
 ;
